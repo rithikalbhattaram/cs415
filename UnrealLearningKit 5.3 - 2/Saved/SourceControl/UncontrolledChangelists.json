@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/rithikabhattaram/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/Hour_of_Code/Blueprints/Game/HealthPack.uasset",
+				"/Users/rithikabhattaram/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/Hour_of_Code/Blueprints/Game/BP_HourOfCode_Character.uasset",
+				"/Users/rithikabhattaram/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/Hour_of_Code/Blueprints/Game/PursuerCharacter.uasset",
+				"/Users/rithikabhattaram/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/Hour_of_Code/Blueprints/Game/PursuerController.uasset",
+				"/Users/rithikabhattaram/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"/Users/rithikabhattaram/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/Hour_of_Code/Blueprints/Game/Mortar.uasset",
+				"/Users/rithikabhattaram/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/Hour_of_Code/Blueprints/Game/Projectile.uasset",
+				"/Users/rithikabhattaram/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/Hour_of_Code/Blueprints/Game/MyEnemy.uasset",
+				"/Users/rithikabhattaram/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/rithikabhattaram/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/LearningKit_Games/Blueprints/PlayerCharacter/PursuerController.uasset",
+				"/Users/rithikabhattaram/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/LearningKit_Games/Blueprints/PlayerCharacter/Pursuer.uasset",
+				"/Users/rithikabhattaram/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/LearningKit_Games/Blueprints/PlayerCharacter/Mortar.uasset",
+				"/Users/rithikabhattaram/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/LearningKit_Games/Blueprints/PlayerCharacter/Projectile.uasset",
+				"/Users/rithikabhattaram/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/LearningKit_Games/Blueprints/PlayerCharacter/MyEnemy.uasset",
+				"/Users/rithikabhattaram/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/Hour_of_Code/Blueprints/Game/AICharacter.uasset",
+				"/Users/rithikabhattaram/Documents/Unreal Projects/UnrealLearningKit 5.3 - 2/Content/Hour_of_Code/Blueprints/Game/AIController.uasset"
+			]
+		}
+	]
+}
